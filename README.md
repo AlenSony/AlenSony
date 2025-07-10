@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey 👋, I'm Alen Sony</h1>
 <h3 align="center">Web Developer | AI Enthusiast | Backend Explorer 🚀</h3>
 
@@ -48,8 +47,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/alen-sony-71438732b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:alensonythottathil2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/_alen_sony/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">⚡ Fueling the web with code & creativity ⚡</p>
+
