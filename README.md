@@ -1,54 +1,87 @@
 <h1 align="center">Hi, I'm Alen Sony 👋</h1>
 <h3 align="center">Full-Stack Developer | Computer Vision Enthusiast | Automation Architect</h3>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Alen%20Sony&fontSize=80&animation=fadeIn" />
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Full-Stack+Architect;AI+%2B+Computer+Vision;Automation+Specialist;Systems+Programmer" alt="Typing SVG" />
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/alen-sony-71438732b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:alensonythottathil2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.instagram.com/_alen_sony/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  </p>
+</div>
+
+---
+
+### 💫 About Me
+
+I am a **B.Tech Information Technology** student at **APJ Abdul Kalam Technological University** with a passion for building software that solves real-world security and efficiency problems.
+
+- 🚆 **Project RailSeat:** Architecting a complete railway reservation ecosystem with React 18 & PostgreSQL.
+- 👁️ **Vision Guard:** Implementing YOLO-based computer vision to secure screens from unauthorized viewing.
+- ⚙️ **Systems Logic:** Experienced in implementing reliable data transfer protocols (Stop-and-Wait, GBN) and Compiler Design.
+- 🛍️ **E-commerce:** Designing for the snow-skating brand **Novara** on Shopify.
+- 🤖 **Local AI:** Running local workflows using **Ollama** and **n8n** for seamless automation.
+
+---
+
+### 🛠️ Professional Skill Vault
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Frontend</strong><br />
+      <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend</strong><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,mongodb" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Languages</strong><br />
+      <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>DevOps & Tools</strong><br />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+    </td>
+    <td align="center" width="33%">
+      <strong>AI & Automation</strong><br />
+      <img src="https://skillicons.dev/icons?i=py,opencv,botpress" /> + Ollama & n8n
+    </td>
+    <td align="center" width="33%">
+      <strong>Others</strong><br />
+      <img src="https://skillicons.dev/icons?i=shopify,razorpay" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Engineering Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Full-Stack+Development;Computer+Vision+%2B+YOLO;Workflow+Automation;Scalable+Architectures" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlenSony&show_icons=true&theme=transparent&title_color=70A5FD&text_color=FFFFFF&icon_color=70A5FD&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenSony&layout=compact&theme=transparent&title_color=70A5FD&text_color=FFFFFF&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlenSony&theme=transparent&currStreakNum=70A5FD&fire=70A5FD&sideLabels=FFFFFF&stroke=FFFFFF&hide_border=true" width="89%" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🛠️ Currently building **RailSeat**, a full-stack railway reservation platform.
-- 👁️ Deep diving into **Computer Vision**, using YOLO models to build privacy-focused security tools.
-- 🤖 Automating the world with **n8n** and running local LLMs via **Ollama**.
-- 🎓 B.Tech IT Student at **APJ Abdul Kalam Technological University**.
-- 💻 Solving the "Matrix from Hell" with **Docker** and modern DevOps practices.
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend & Logic** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**Backend & Infrastructure** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-
-**AI & Automation** ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
-![n8n](https://img.shields.toolbar/badge/-n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-
----
-
-### 📈 Activity & Impact
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlenSony&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlenSony&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/msharratt140/msharratt140/master/media/line-blue.gif" width="100%">
 </p>
 
----
-
-### 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/alen-sony-71438732b"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:alensonythottathil2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_alen_sony/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <b>“The best way to predict the future is to build it.”</b><br />
+  🚀 <i>Currently exploring the intersection of Computer Vision and Web Privacy.</i>
 </p>
-
-<p align="center"><i>"Turning complex logic into elegant code, one commit at a time."</i></p>
