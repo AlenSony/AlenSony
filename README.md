@@ -19,48 +19,24 @@
 
 ### 💫 About Me
 
-I am a **B.Tech Information Technology** student at **APJ Abdul Kalam Technological University** with a passion for building software that solves real-world security and efficiency problems.
+I am a **B.Tech IT** student at **APJ Abdul Kalam Technological University** focused on bridging the gap between web applications and low-level system efficiency.
 
-- 🚆 **Project RailSeat:** Architecting a complete railway reservation ecosystem with React 18 & PostgreSQL.
-- 👁️ **Vision Guard:** Implementing YOLO-based computer vision to secure screens from unauthorized viewing.
-- ⚙️ **Systems Logic:** Experienced in implementing reliable data transfer protocols (Stop-and-Wait, GBN) and Compiler Design.
-- 🛍️ **E-commerce:** Designing for the snow-skating brand **Novara** on Shopify.
-- 🤖 **Local AI:** Running local workflows using **Ollama** and **n8n** for seamless automation.
+- 🚆 **RailSeat:** Building a high-performance railway reservation system using React 18, Node.js, and PostgreSQL.
+- 👁️ **Vision Guard:** Developed a YOLO-based privacy tool to auto-blur screens when mobile phones are detected.
+- ⚙️ **Systems:** Implementing reliable data transfer protocols (GBN, Selective Repeat) and Compiler Design logic.
+- 🛍️ **E-commerce:** Technical lead for **Novara**, a snow-skating brand on Shopify.
+- 🤖 **Local AI:** Orchestrating workflows with **Ollama** and **n8n** for local-first automation.
 
 ---
 
-### 🛠️ Professional Skill Vault
+### 🛠️ Tech Stack & Skills
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <strong>Frontend</strong><br />
-      <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Backend</strong><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,mongodb" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Languages</strong><br />
-      <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <strong>DevOps & Tools</strong><br />
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
-    </td>
-    <td align="center" width="33%">
-      <strong>AI & Automation</strong><br />
-      <img src="https://skillicons.dev/icons?i=py,opencv,botpress" /> + Ollama & n8n
-    </td>
-    <td align="center" width="33%">
-      <strong>Others</strong><br />
-      <img src="https://skillicons.dev/icons?i=shopify,razorpay" />
-    </td>
-  </tr>
-</table>
+**Frontend & Backend** <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,postgres,sequelize,mongodb" />
+
+**Languages** <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+
+**DevOps & Automation** <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />  
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
 
 ---
 
@@ -82,6 +58,5 @@ I am a **B.Tech Information Technology** student at **APJ Abdul Kalam Technologi
 </p>
 
 <p align="center">
-  <b>“The best way to predict the future is to build it.”</b><br />
-  🚀 <i>Currently exploring the intersection of Computer Vision and Web Privacy.</i>
+  🚀 <i>"Turning complex logic into elegant code, one commit at a time."</i>
 </p>
