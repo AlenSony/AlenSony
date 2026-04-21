@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Alen%20Sony&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=3399ff&height=200&section=header&text=Alen%20Sony&fontSize=80&animation=fadeIn" alt="Header Image" />
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Full-Stack+Architect;AI+%2B+Computer+Vision;Automation+Specialist;Systems+Programmer" alt="Typing SVG" />
@@ -20,15 +20,15 @@
 
 ---
 
-### 💫 About Me
+### 💫 Areas of Interest
 
-I am a **B.Tech IT** student at **APJ Abdul Kalam Technological University** focused on bridging the gap between web applications and low-level system efficiency.
+I am a **B.Tech IT** student at **APJ Abdul Kalam Technological University** dedicated to exploring the intersection of modern web ecosystems and high-performance system logic.
 
-* 🚆 **RailSeat:** Building a high-performance railway reservation system using React 18, Node.js, and PostgreSQL.
-* 👁️ **Vision Guard:** Developed a YOLO-based privacy tool to auto-blur screens when mobile phones are detected.
-* ⚙️ **Systems:** Implementing reliable data transfer protocols (GBN, Selective Repeat) and Compiler Design logic.
-* 🛍️ **E-commerce:** Technical lead for **Novara**, a snow-skating brand on Shopify.
-* 🤖 **Local AI:** Orchestrating workflows with **Ollama** and **n8n** for local-first automation.
+* 🌐 **Full-Stack Engineering:** Developing scalable web architectures with a focus on seamless user experiences and robust backend management.
+* 👁️ **Computer Vision & AI:** Integrating YOLO and OpenCV models into real-world applications for privacy and security.
+* ⚙️ **Systems Programming:** Deep interest in network protocols (Reliable Data Transfer), compiler design, and memory efficiency.
+* 🤖 **Workflow Automation:** Building sophisticated, automated pipelines using local LLMs and low-code integration tools.
+* 🏗️ **DevOps & Infrastructure:** Managing containerized environments and CI/CD workflows to ensure software reliability.
 
 ---
 
@@ -60,8 +60,9 @@ I am a **B.Tech IT** student at **APJ Abdul Kalam Technological University** foc
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <strong>Others</strong><br />
-      <img src="https://skillicons.dev/icons?i=shopify,razorpay" />
+      <strong>E-commerce & FinTech</strong><br />
+      <img src="https://skillicons.dev/icons?i=shopify" />
+      <img src="https://img.shields.io/badge/Razorpay-020425?style=flat-square&logo=razorpay&logoColor=3399FF" />
     </td>
   </tr>
 </table>
