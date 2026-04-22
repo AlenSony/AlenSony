@@ -20,6 +20,88 @@
 
 ---
 
+<div align="center">
+
+<svg width="100%" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Gradient Background -->
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a192f"/>
+    </linearGradient>
+
+    <radialGradient id="nodeGlow">
+      <stop offset="0%" stop-color="#70A5FD"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="260" fill="url(#bg)" rx="20"/>
+
+  <!-- CONNECTION LINES -->
+  <g stroke="#70A5FD" stroke-opacity="0.2">
+    <line x1="100" y1="60" x2="300" y2="130">
+      <animate attributeName="stroke-opacity" values="0.1;0.6;0.1" dur="4s" repeatCount="indefinite"/>
+    </line>
+    <line x1="300" y1="130" x2="550" y2="70">
+      <animate attributeName="stroke-opacity" values="0.1;0.7;0.1" dur="5s" repeatCount="indefinite"/>
+    </line>
+    <line x1="200" y1="200" x2="400" y2="120">
+      <animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="400" y1="120" x2="700" y2="200">
+      <animate attributeName="stroke-opacity" values="0.1;0.6;0.1" dur="4.5s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- NODES -->
+  <g>
+    <circle cx="100" cy="60" r="4" fill="#70A5FD">
+      <animate attributeName="r" values="3;6;3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="300" cy="130" r="5" fill="#70A5FD">
+      <animate attributeName="r" values="4;7;4" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="550" cy="70" r="4" fill="#70A5FD">
+      <animate attributeName="r" values="3;6;3" dur="5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="200" cy="200" r="4" fill="#70A5FD">
+      <animate attributeName="r" values="3;6;3" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="400" cy="120" r="5" fill="#70A5FD">
+      <animate attributeName="r" values="4;8;4" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="700" cy="200" r="4" fill="#70A5FD">
+      <animate attributeName="r" values="3;6;3" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- FLOATING PARTICLES -->
+  <g fill="#70A5FD" opacity="0.5">
+    <circle cx="50" cy="250" r="2">
+      <animate attributeName="cy" values="260;-10" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="250" r="2">
+      <animate attributeName="cy" values="260;-10" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="250" r="2">
+      <animate attributeName="cy" values="260;-10" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="250" r="2">
+      <animate attributeName="cy" values="260;-10" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+</svg>
+
+</div>
+
 ### 💫 Areas of Interest
 
 I am a **B.Tech IT** student at **APJ Abdul Kalam Technological University** dedicated to exploring the intersection of modern web ecosystems and high-performance system logic.
