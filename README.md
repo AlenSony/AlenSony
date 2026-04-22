@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=3399ff&height=200&section=header&text=Alen%20Sony&fontSize=80&animation=fadeIn" alt="Header Image" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3399ff,100:70A5FD&height=250&section=header&text=Alen%20Sony&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20%7C%20AI%20%7C%20Systems&descAlignY=55&descSize=18" />
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Full-Stack+Architect;AI+%2B+Computer+Vision;Automation+Specialist;Systems+Programmer" alt="Typing SVG" />
