@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3399ff,100:70A5FD&height=250&section=header&text=Alen%20Sony&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20%7C%20AI%20%7C%20Systems&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3399ff,100:70A5FD&height=250&section=header&text=Alen%20Sony&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20%7C%20Systems%20%7C%20AI&descAlignY=55&descSize=18" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Full-Stack+Architect;AI+%2B+Computer+Vision;Automation+Specialist;Systems+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Full-Stack+Systems+Architect;AI+%2B+Computer+Vision;Infrastructure+%26+DevOps;Workflow+Automation" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -20,69 +20,56 @@
 
 ---
 
-
-## 💫 Areas of Interest
+## 💫 Core Specializations
 
 <div align="center">
-
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-### 🌐 Full-Stack Engineering
-Designing **scalable web architectures** with a strong emphasis on performance, clean UI/UX, and maintainable backend systems.
-
+### 🌐 Full-Stack & Systems Architecture
+Building scalable web engines with decoupled architectures (React + Node.js/Sequelize). Experienced in real-time state sync, secure e-commerce systems (Shopify/Razorpay), and repository restructuring.
 </td>
 
 <td width="50%" valign="top">
 
-### 👁️ Computer Vision & AI
-Building intelligent solutions using **YOLO, OpenCV**, and real-time processing for privacy-focused applications.
-
+### 👁️ Computer Vision & Local AI
+Developing privacy-first edge intelligence solutions using **YOLO** and **OpenCV** alongside local automation pipelines built on **n8n** and **Ollama (Llama 3.2)**.
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### ⚙️ Systems Programming
-Exploring **network protocols, compilers, and memory optimization** to understand systems at a deeper level.
-
+### ⚙️ Low-Level & Protocol Engineering
+Deeply interested in core networking mechanics. Passionate about protocol internals, memory optimization, and custom implementations of reliability layers (Stop-and-Wait, Go-Back-N, Selective Repeat) over raw UDP.
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 Workflow Automation
-Creating **LLM-powered pipelines** and automation systems using tools like n8n and local AI models.
-
+### 🏗️ Infrastructure & Automation
+Focused on systems engineering over generic feature development. Optimizing deployment lifecycles using **Docker**, building resilient pipelines, and developing **Multi-Agent routing networks**.
 </td>
-
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏗️ DevOps & Infrastructure
-Managing **containerized environments, CI/CD pipelines**, and deployment workflows for reliability.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Engineering Mindset
-Focused on building systems where **efficiency, intelligence, and scalability** work together seamlessly.
-
-</td>
-
-</tr>
-
 </table>
-
 </div>
+
+---
+
+## 🚀 Featured Engineering Projects
+
+### 🚄 RailSeat — Full-Stack Railway Reservation Platform
+* Built a high-concurrency reservation engine using **React, Node.js, and PostgreSQL**.
+* Implemented real-time seat status synchronization utilizing **Socket.io** to prevent race conditions during checkout.
+* Engineered an interactive, dynamic visualization grid for real-time coach layouts.
+
+### 🛡️ Vision Guard — Privacy-First Computer Vision Tool
+* Developed a local, hardware-accelerated Python utility utilizing the **YOLO** object detection model.
+* Automatically triggers immediate desktop screen-blur functions upon real-time detection of mobile devices within the camera frame, safeguarding sensitive source code and on-screen data.
+
+### 🤖 Multi-Agent Routing Engine & Core Networks
+* Designing decentralized, multi-agent systems optimization models for smart routing paths.
+* Developed custom reliability, sliding window flow control, and packet acknowledgment layers natively in **C** on top of stateless UDP connections.
 
 ---
 
@@ -95,12 +82,12 @@ Focused on building systems where **efficiency, intelligence, and scalability** 
       <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
     </td>
     <td align="center" width="33%">
-      <strong>Backend</strong><br />
+      <strong>Backend & DB</strong><br />
       <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,mongodb" />
     </td>
     <td align="center" width="33%">
       <strong>Languages</strong><br />
-      <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
     </td>
   </tr>
   <tr>
@@ -114,7 +101,7 @@ Focused on building systems where **efficiency, intelligence, and scalability** 
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <strong>E-commerce & FinTech</strong><br />
+      <strong>E-commerce & Payments</strong><br />
       <img src="https://skillicons.dev/icons?i=shopify" />
       <img src="https://img.shields.io/badge/Razorpay-020425?style=flat-square&logo=razorpay&logoColor=3399FF" />
     </td>
@@ -141,5 +128,5 @@ Focused on building systems where **efficiency, intelligence, and scalability** 
 </p>
 
 <p align="center">
-  🚀 <i>"Turning complex logic into elegant code, one commit at a time."</i>
+  🚀 <i>"Turning complex logic into elegant systems, one architecture design at a time."</i>
 </p>
