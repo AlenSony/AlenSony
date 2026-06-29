@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a2744,100:3399ff&amp;height=220&amp;section=header&amp;text=Alen%20Sony&amp;fontSize=72&amp;fontAlignY=38&amp;fontColor=e6edf3&amp;animation=fadeIn&amp;desc=Full-Stack%20%C2%B7%20AI%20%26%20Vision%20%C2%B7%20Systems%20Architecture&amp;descAlignY=58&amp;descSize=16&amp;descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3399ff,100:70A5FD&height=250&section=header&text=Alen%20Sony&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20%7C%20AI%20%7C%20Systems&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=700&amp;size=14&amp;pause=1200&amp;color=3399FF&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Systems+Architect+%2F+Full-Stack+Engineer;Computer+Vision+%26+Local+AI+%2F+Edge+Intelligence;Low-Level+Networking+%26+Protocol+Engineering;Infrastructure+%2F+Automation+%2F+Multi-Agent+Systems" alt="Typing SVG" />
 
